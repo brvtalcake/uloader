@@ -1,3 +1,3 @@
 # µloader
 
-µ-bootloader
+Micro UEFI x86-64 bootloader.
